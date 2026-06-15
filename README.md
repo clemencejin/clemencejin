@@ -1,16 +1,19 @@
-## Hi there 👋
+# Portfolio de Clémence Jin
+Étudiante en M1 Informatique, Décisions, Données à l'Université Paris Dauphine-PSL
 
-<!--
-**clemencejin/clemencejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mes projets disponibles
+### Projet 1 : Prédiction Hits Spotify
+Lien : 
+Contenu : Scripts Python + rapport PDF + diapo présentation
 
-Here are some ideas to get you started:
+### Projet 2 : Lecture automatique compteurs d'eau
+Lien : 
+Contenu : Code frontend + rapport PDF + PPT soutenance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projet 3 : Création IA Pacman
+Lien : 
+Contenu : Code Java + diapo présentation
+
+### Projet 4 : Optimisation d'allocation bureaux
+Lien : 
+Contenu : Scripts Python + rapport détaillé
