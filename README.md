@@ -16,4 +16,4 @@ Contenu : Code Java + diapo présentation
 
 ### Projet 4 : Optimisation d'allocation bureaux
 Lien : 
-Contenu : Scripts Python + rapport détaillé
+Contenu : Notebook Python + rapport détaillé
